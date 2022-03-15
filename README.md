@@ -3,3 +3,4 @@ La liste de mes fromages préférés:
 - Roquefort
 - Chèvre
 - Mozarella
+- Emmental
